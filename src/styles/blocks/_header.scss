@@ -1,0 +1,28 @@
+.header {
+  background-color: $color-dark;
+}
+
+.header-inner {}
+
+.header-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  color: #FFF;
+  font-family: $font;
+  font-size: 42px;
+  font-weight: 600;
+  text-decoration: none;
+
+
+}
+
+.menu {
+  padding-left: 84px;
+  display: flex;
+
+
+
+}
